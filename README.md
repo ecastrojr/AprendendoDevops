@@ -6,7 +6,7 @@
 
 Materiais que podem te ajudar nessa estrada:
 
-```
+``` html
 https://caiodelgado.dev/docker-101/
 https://github.com/caiodelgadonew/docker/blob/main/manuscript/05-docker-compose.md
 https://github.com/gomex/docker-para-desenvolvedores
