@@ -6,6 +6,7 @@
 
 Materiais que podem te ajudar nessa estrada:
 
+```
 https://caiodelgado.dev/docker-101/
 https://github.com/caiodelgadonew/docker/blob/main/manuscript/05-docker-compose.md
 https://github.com/gomex/docker-para-desenvolvedores
@@ -24,7 +25,7 @@ https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 https://docs.docker.com/engine/reference/builder/#add
 https://docs.docker.com/compose/
 https://docs.docker.com/compose/compose-file/compose-file-v3/
-
+```
 
 ```bash
 docker ps
